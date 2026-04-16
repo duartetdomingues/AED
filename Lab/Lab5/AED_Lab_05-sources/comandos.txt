@@ -1,0 +1,93 @@
+./sortwords chave.txt -ocorrencias -d -i
+./sortwords chave0.txt -ocorrencias -d -i
+./sortwords doc.txt -ocorrencias -d -i
+./sortwords doc0.txt -ocorrencias  -d -i
+./sortwords doc1.txt -ocorrencias  -d -i
+./sortwords doc2.txt -ocorrencias -d -i
+./sortwords doc3.txt -ocorrencias -d -i
+./sortwords doc4.txt -ocorrencias -d -i
+./sortwords fich1.txt -ocorrencias -d -i
+./sortwords fich2.txt -ocorrencias -d -i
+./sortwords ros0.txt -ocorrencias -d -i
+./sortwords ros1.txt -ocorrencias -d -i
+./sortwords ros2.txt -ocorrencias -d -i
+./sortwords ros3.txt -ocorrencias -d -i
+
+./sortwords chave.txt -comprimento -d -i
+./sortwords chave0.txt -comprimento -d -i
+./sortwords doc.txt -comprimento -d -i
+./sortwords doc0.txt -comprimento -d -i
+./sortwords doc1.txt -comprimento -d -i
+./sortwords doc2.txt -comprimento -d -i
+./sortwords doc3.txt -comprimento -d -i
+./sortwords doc4.txt -comprimento -d -i
+./sortwords fich1.txt -comprimento -d -i
+./sortwords fich2.txt -comprimento -d -i
+./sortwords ros0.txt -comprimento -d -i
+./sortwords ros1.txt -comprimento -d -i
+./sortwords ros2.txt -comprimento -d -i
+./sortwords ros3.txt -comprimento -d -i
+
+./sortwords chave.txt -alfabetica -d -i
+./sortwords chave0.txt -alfabetica  -d -i
+./sortwords doc.txt -alfabetica  -d -i
+./sortwords doc0.txt -alfabetica  -d -i
+./sortwords doc1.txt -alfabetica  -d -i
+./sortwords doc2.txt -alfabetica -d -i
+./sortwords doc3.txt -alfabetica -d -i
+./sortwords doc4.txt -alfabetica -d -i
+./sortwords fich1.txt -alfabetica -d -i
+./sortwords fich2.txt -alfabetica -d -i
+./sortwords ros0.txt -alfabetica -d -i
+./sortwords ros1.txt -alfabetica -d -i
+./sortwords ros2.txt -alfabetica -d -i
+./sortwords ros3.txt -alfabetica -d -i
+
+
+
+
+./qsortwords chave.txt -ocorrencias
+./qsortwords chave0.txt -ocorrencias 
+./qsortwords doc.txt -ocorrencias 
+./qsortwords doc0.txt -ocorrencias 
+./qsortwords doc1.txt -ocorrencias 
+./qsortwords doc2.txt -ocorrencias
+./qsortwords doc3.txt -ocorrencias
+./qsortwords doc4.txt -ocorrencias
+./qsortwords fich1.txt -ocorrencias
+./qsortwords fich2.txt -ocorrencias
+./qsortwords ros0.txt -ocorrencias
+./qsortwords ros1.txt -ocorrencias
+./qsortwords ros2.txt -ocorrencias
+./qsortwords ros3.txt -ocorrencias
+
+./qsortwords chave.txt -comprimento
+./qsortwords chave0.txt -comprimento
+./qsortwords doc.txt -comprimento
+./qsortwords doc0.txt -comprimento
+./qsortwords doc1.txt -comprimento
+./qsortwords doc2.txt -comprimento
+./qsortwords doc3.txt -comprimento
+./qsortwords doc4.txt -comprimento
+./qsortwords fich1.txt -comprimento
+./qsortwords fich2.txt -comprimento
+./qsortwords ros0.txt -comprimento
+./qsortwords ros1.txt -comprimento
+./qsortwords ros2.txt -comprimento
+./qsortwords ros3.txt -comprimento
+
+./qsortwords chave.txt -alfabetica -d -i
+./qsortwords chave0.txt -alfabetica  -d -i
+./qsortwords doc.txt -alfabetica  -d -i
+./qsortwords doc0.txt -alfabetica  -d -i
+./qsortwords doc1.txt -alfabetica  -d -i
+./qsortwords doc2.txt -alfabetica -d -i
+./qsortwords doc3.txt -alfabetica -d -i
+./qsortwords doc4.txt -alfabetica -d -i
+./qsortwords fich1.txt -alfabetica -d -i
+./qsortwords fich2.txt -alfabetica -d -i
+./qsortwords ros0.txt -alfabetica -d -i
+./qsortwords ros1.txt -alfabetica -d -i
+./qsortwords ros2.txt -alfabetica -d -i
+./qsortwords ros3.txt -alfabetica -d -i
+

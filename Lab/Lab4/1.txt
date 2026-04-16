@@ -1,0 +1,26 @@
+#define swap(a, b) {int t; t = a; a = b; b = t;}	//4
+							//
+void fake ordering (int* vec, int iL, int iR) {		//
+	int tmp;					//1
+	int iM = (iR - iL) / 2;				//3
+							//
+	if (vec[iL] > vec[iM])				//1
+		swap(vec[iL], vec[iM]);			//1+4
+	if (vec[iM] > vec[iR])				//1
+		swap(vec[iM], vec[iR]);			//1+4
+	if (vec[iL] > vec[iM])				//1
+		swap(vec[iL], vec[iM]);			//1+4
+							//
+	fake ordering(vec, iL, iM);			//
+	fake ordering(vec, iM + 1, iR);			//
+	return;						//
+}							//
+
+
+t(n)=T(n-1)+t(n)+22
+
+t(n)=t(n)+t(n-k)+22k
+
+
+c(n)=c(n/2)+22k
+
